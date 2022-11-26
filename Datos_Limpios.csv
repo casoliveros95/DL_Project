@@ -1,0 +1,181 @@
+,campania,anio,sec_campania,texto_folleto,lugar_folleto,imagen_folleto,imagen_especificacion_folleto,vineta_especificacion_folleto,vineta_extendida_folleto,plataforma,estrategia,promocion,descripcion_promocion,criterio_corporativo,pedidos,Num_Prod_x_Campania,Nuevo_Prod_en_Campania
+270,1812,2018,12,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top Corp,395.0,4433,False
+4688,1813,2018,13,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top Corp,412.0,4353,False
+9042,1814,2018,14,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top Corp,372.0,4178,False
+13217,1815,2018,15,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top Corp,558.0,4573,False
+17790,1816,2018,16,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top Corp,773.0,4594,False
+22380,1817,2018,17,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top Corp,3702.0,4771,False
+27143,1818,2018,18,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top Corp,865.0,4419,False
+31547,1901,2019,1,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top Corp,490.0,4184,False
+35761,1902,2019,2,True,Menos de media página,False,True,True,False,Plataforma inicial,Power,Regular,True,Top Corp,371.0,4260,False
+39995,1903,2019,3,True,Menos de media página,False,True,True,False,Plataforma inicial,Power,Regular,True,Top Corp,351.0,4283,False
+44234,1904,2019,4,True,Menos de media página,False,True,False,False,Plataforma interior,Power,Regular,True,Top Corp,598.0,4225,False
+48443,1905,2019,5,True,Menos de media página,False,True,True,False,Plataforma interior,Power,Regular,True,Top Corp,1484.0,4212,False
+52661,1906,2019,6,True,Media página,True,True,True,False,Plataforma interior,Power,Regular,True,Top Corp,495.0,4489,False
+57146,1907,2019,7,True,Menos de media página,False,True,False,True,Plataforma inicial,Power,Promo,True,Top Corp,634.0,4642,False
+61809,1908,2019,8,True,Página,True,True,True,False,Plataforma interior,Power,Regular,True,Top Corp,602.0,4521,False
+66284,1909,2019,9,True,Página,True,True,False,False,Plataforma interior,Power,Regular,True,Top Corp,550.0,4518,False
+70851,1910,2019,10,True,Menos de media página,False,True,True,False,Plataforma interior,Power,Regular,True,Top Corp,338.0,4455,False
+75288,1911,2019,11,True,Menos de media página,False,True,False,True,Plataforma final,Power,Promo,True,Top Corp,2044.0,4441,False
+79732,1912,2019,12,True,Página,True,True,True,False,Plataforma inicial,Power,Regular,True,Top Corp,755.0,4477,False
+84198,1913,2019,13,True,Menos de media página,False,True,False,True,Plataforma interior,Power,Regular,True,Top Corp,502.0,4425,False
+88618,1914,2019,14,True,Menos de media página,False,True,False,False,Plataforma final,Power,Regular,True,Top Corp,581.0,4716,False
+93318,1915,2019,15,True,Menos de media página,False,True,False,False,Plataforma inicial,Power,Regular,True,Top Corp,349.0,4600,False
+97903,1916,2019,16,False,Media página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,711.0,4526,True
+102434,1917,2019,17,False,Página,False,False,False,True,No Aplica,Power,Promo,True,Top Corp,3616.0,4460,True
+106920,1918,2019,18,True,Página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,661.0,4767,True
+111661,2001,2020,1,True,Página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,358.0,4369,True
+116024,2002,2020,2,True,Página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,429.0,4049,True
+120081,2003,2020,3,True,Página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,316.0,4193,True
+124269,2004,2020,4,True,Página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,402.0,4130,True
+128403,2005,2020,5,True,Página,False,False,False,True,Plataforma inicial,Power,Regular,True,Top Corp,332.0,4111,True
+132522,2006,2020,6,True,Página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,314.0,4924,True
+137452,2007,2020,7,False,Página,False,False,False,True,Plataforma final,Power,Promo,True,Top Corp,1201.0,4765,True
+142197,2008,2020,8,True,Página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,427.0,5009,True
+147182,2010,2020,10,True,Página,False,False,False,True,Plataforma inicial,Power,Regular,True,Top Corp,286.0,4687,True
+151857,2011,2020,11,True,Página,False,False,False,True,Plataforma inicial,Power,Promo,True,Top Corp,1362.0,4645,True
+156521,2012,2020,12,True,Página,False,False,False,True,Plataforma inicial,Power,Regular,True,Top Corp,459.0,4833,True
+161341,2013,2020,13,True,Página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,320.0,4627,True
+165990,2014,2020,14,True,Página,False,False,False,True,Plataforma inicial,Power,Regular,True,Top Corp,277.0,4891,True
+170856,2015,2020,15,False,Página,False,False,False,True,Plataforma inicial,Power,Regular,True,Top Corp,466.0,4945,True
+175788,2016,2020,16,True,Página,False,False,False,True,Plataforma inicial,Power,Regular,True,Top Corp,413.0,5170,True
+180967,2017,2020,17,False,Página,False,False,False,True,No Aplica,Power,Promo,True,Top Corp,2697.0,5285,True
+186247,2018,2020,18,True,Página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,621.0,5680,True
+191926,2101,2021,1,True,Página,False,False,False,True,No Aplica,No Aplica,Regular,False,Top Corp,282.0,4686,True
+196612,2102,2021,2,True,Varias páginas,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,351.0,5214,True
+201839,2103,2021,3,True,Página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,351.0,5209,True
+207040,2104,2021,4,True,Varias páginas,False,False,False,True,No Aplica,Power,Promo,True,Top Corp,2157.0,5103,True
+212136,2105,2021,5,True,Página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,428.0,5131,True
+217261,2106,2021,6,True,Página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,560.0,4407,True
+221677,2107,2021,7,False,Varias páginas,False,False,False,True,Plataforma interior,Power,Promo,False,Top Corp,1203.0,4176,True
+225850,2108,2021,8,True,Varias páginas,False,False,False,True,No Aplica,No Aplica,Regular,False,Top Corp,366.0,4269,True
+230116,2109,2021,9,True,Varias páginas,False,False,False,True,Díptico,Exhibición,Regular,False,Top Corp,356.0,4020,True
+234147,2110,2021,10,True,Varias páginas,False,False,False,True,Plataforma inicial,Power,Regular,False,Top Corp,284.0,4041,True
+238187,2111,2021,11,True,Página,False,False,False,True,No Aplica,Power,Promo,False,Top Corp,1667.0,3912,True
+242101,2112,2021,12,True,Página,False,False,False,True,Plataforma inicial,Power,Regular,False,Top Corp,333.0,3916,True
+246017,2113,2021,13,True,Varias páginas,False,False,False,True,No Aplica,No Aplica,Regular,False,Top Corp,849.0,3821,True
+249838,2114,2021,14,True,Página,False,False,False,True,Plataforma inicial,Power,Regular,False,Top Corp,567.0,4257,True
+254095,2115,2021,15,False,Página,False,False,False,True,No Aplica,Power,Promo,False,Top Corp,2395.0,4171,True
+258270,2116,2021,16,True,Varias páginas,False,False,False,True,No Aplica,No Aplica,Regular,False,Top Corp,642.0,4243,True
+262513,2117,2021,17,True,Varias páginas,False,False,False,True,Plataforma inicial,Power,Regular,False,Top Corp,706.0,4709,True
+267221,2118,2021,18,False,Página,False,False,False,True,No Aplica,Power,Promo,False,Top Corp,2308.0,4960,True
+1417,1812,2018,12,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top Corp,660.0,4433,False
+5926,1813,2018,13,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top Corp,443.0,4353,False
+10197,1814,2018,14,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top Corp,584.0,4178,False
+14484,1815,2018,15,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top Corp,554.0,4573,False
+19024,1816,2018,16,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top Corp,1306.0,4594,False
+23723,1817,2018,17,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top Corp,744.0,4771,False
+28329,1818,2018,18,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top Corp,503.0,4419,False
+32644,1901,2019,1,True,Menos de media página,True,True,False,False,Plataforma interior,Power,Regular,True,Top Corp,1002.0,4184,False
+36904,1902,2019,2,True,Media página,True,True,True,False,Plataforma interior,Power,Promo,True,Top Corp,789.0,4260,False
+41013,1903,2019,3,True,Media página,True,True,False,False,Plataforma interior,Power,Regular,True,Top Corp,649.0,4283,False
+45374,1904,2019,4,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top Corp,1113.0,4225,False
+49521,1905,2019,5,True,Página,True,True,False,False,Plataforma interior,Power,Regular,True,Top Corp,457.0,4212,False
+53760,1906,2019,6,True,Media página,True,True,True,False,Plataforma interior,Power,Regular,True,Top Corp,493.0,4489,False
+58327,1907,2019,7,True,Media página,True,True,False,False,Plataforma interior,Power,Promo,True,Top Corp,664.0,4642,False
+62926,1908,2019,8,True,Media página,False,True,True,False,Plataforma interior,Power,Regular,True,Top Corp,381.0,4521,False
+67439,1909,2019,9,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top Corp,983.0,4518,False
+72078,1910,2019,10,True,Media página,True,True,True,True,Plataforma final,Power,Regular,True,Top Corp,427.0,4455,False
+76546,1911,2019,11,True,Media página,True,True,False,False,Plataforma interior,Power,Regular,True,Top Corp,495.0,4441,False
+80989,1912,2019,12,True,Media página,False,True,False,False,Plataforma interior,Power,Regular,True,Top Corp,1194.0,4477,False
+85393,1913,2019,13,True,Media página,True,True,False,True,Plataforma interior,Power,Regular,True,Top Corp,443.0,4425,False
+89807,1914,2019,14,True,Media página,True,True,False,True,Plataforma interior,Power,Regular,True,Top Corp,995.0,4716,False
+94461,1915,2019,15,True,Media página,False,True,True,True,Plataforma interior,Power,Regular,True,Top Corp,684.0,4600,False
+99005,1916,2019,16,False,Media página,False,False,False,False,No Aplica,No Aplica,Regular,True,Top Corp,368.0,4526,True
+103454,1917,2019,17,False,Media página,False,False,False,True,No Aplica,Power,Promo,True,Top Corp,862.0,4460,True
+108122,1918,2019,18,False,Página,False,False,False,True,Plataforma interior,No Aplica,Regular,True,Top Corp,1008.0,4767,True
+112749,2001,2020,1,False,Página,False,False,False,True,No Aplica,Power,Promo,True,Top Corp,1245.0,4369,True
+116992,2002,2020,2,False,Media página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,682.0,4049,True
+121174,2003,2020,3,False,Media página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,774.0,4193,True
+125252,2004,2020,4,False,Media página,False,False,False,True,No Aplica,Power,Promo,True,Top Corp,1136.0,4130,True
+129344,2005,2020,5,False,Media página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,458.0,4111,True
+133657,2006,2020,6,False,Página,False,False,False,True,No Aplica,Power,Promo,True,Top Corp,1217.0,4924,True
+138539,2007,2020,7,False,Página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,1270.0,4765,True
+143285,2008,2020,8,False,Página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,592.0,5009,True
+147917,2010,2020,10,False,No Registrado,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,664.0,4687,True
+152575,2011,2020,11,True,No Registrado,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,685.0,4645,True
+157371,2012,2020,12,False,Página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,694.0,4833,True
+162024,2013,2020,13,False,Página,False,False,False,True,No Aplica,Power,Promo,True,Top Corp,2115.0,4627,True
+166820,2014,2020,14,False,Media página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,751.0,4891,True
+171590,2015,2020,15,False,Página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,743.0,4945,True
+176501,2016,2020,16,False,Media página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,693.0,5170,True
+181641,2017,2020,17,False,Media página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,685.0,5285,True
+186908,2018,2020,18,False,Página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,569.0,5680,True
+192556,2101,2021,1,False,No Registrado,False,False,False,True,No Aplica,No Aplica,Regular,False,Top Corp,525.0,4686,True
+197245,2102,2021,2,False,No Registrado,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,681.0,5214,True
+202461,2103,2021,3,False,No Registrado,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,547.0,5209,True
+207658,2104,2021,4,False,No Registrado,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,483.0,5103,True
+212611,2105,2021,5,False,No Registrado,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,993.0,5131,True
+217743,2106,2021,6,False,No Registrado,False,False,False,True,No Aplica,No Aplica,Regular,True,Top Corp,693.0,4407,True
+222128,2107,2021,7,False,No Registrado,False,False,False,True,No Aplica,No Aplica,Regular,False,Top Corp,591.0,4176,True
+226303,2108,2021,8,False,No Registrado,False,False,False,True,No Aplica,No Aplica,Regular,False,Top Corp,649.0,4269,True
+230594,2109,2021,9,False,No Registrado,False,False,False,True,No Aplica,Power,Promo,False,Top Corp,1163.0,4020,True
+234613,2110,2021,10,False,No Registrado,False,False,False,True,No Aplica,No Aplica,Regular,False,Top Corp,514.0,4041,True
+238632,2111,2021,11,False,No Registrado,False,False,False,True,No Aplica,No Aplica,Promo,False,Top Corp,603.0,3912,True
+242543,2112,2021,12,False,No Registrado,False,False,False,True,No Aplica,No Aplica,Regular,False,Top Corp,781.0,3916,True
+246458,2113,2021,13,False,Varias páginas,False,False,False,True,No Aplica,Power,Promo,False,Top Corp,1319.0,3821,True
+250259,2114,2021,14,False,No Registrado,False,False,False,True,No Aplica,No Aplica,Regular,False,Top Corp,530.0,4257,True
+254522,2115,2021,15,False,Página,False,False,False,True,No Aplica,No Aplica,Regular,False,Top Corp,518.0,4171,True
+258752,2116,2021,16,False,Página,False,False,False,True,No Aplica,No Aplica,Regular,False,Top Corp,480.0,4243,True
+262983,2117,2021,17,False,Página,False,False,False,True,No Aplica,No Aplica,Regular,False,Top Corp,530.0,4709,True
+267701,2118,2021,18,False,Página,False,False,False,True,No Aplica,No Aplica,Regular,False,Top Corp,505.0,4960,True
+2362,1812,2018,12,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top País,2224.0,4433,False
+6841,1813,2018,13,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top País,549.0,4353,False
+11102,1814,2018,14,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top País,2209.0,4178,False
+15510,1815,2018,15,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top País,422.0,4573,False
+20213,1816,2018,16,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top País,463.0,4594,False
+24905,1817,2018,17,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top País,3156.0,4771,False
+29446,1818,2018,18,True,No Registrado,True,True,True,True,No Aplica,No Aplica,Regular,True,Top País,531.0,4419,False
+33592,1901,2019,1,True,Menos de media página,False,True,False,False,Plataforma inicial,Power,Regular,True,Top País,462.0,4184,False
+37945,1902,2019,2,True,Menos de media página,False,True,False,False,Plataforma interior,Power,Regular,True,Top País,384.0,4260,False
+42062,1903,2019,3,True,Menos de media página,False,True,False,False,Plataforma interior,Power,Regular,True,Top País,403.0,4283,False
+46478,1904,2019,4,True,Menos de media página,False,True,False,False,Plataforma interior,Power,Regular,True,Top País,598.0,4225,False
+50602,1905,2019,5,True,Menos de media página,False,True,False,False,Plataforma inicial,Power,Regular,True,Top País,472.0,4212,False
+54878,1906,2019,6,True,Menos de media página,False,True,False,False,Plataforma interior,Power,Regular,True,Top País,283.0,4489,False
+59408,1907,2019,7,True,Media página,False,True,False,False,Plataforma interior,Power,Promo,True,Top País,2546.0,4642,False
+64078,1908,2019,8,True,Menos de media página,False,True,False,False,Plataforma interior,Power,Regular,True,Top País,277.0,4521,False
+68580,1909,2019,9,True,Menos de media página,False,True,False,False,Plataforma interior,Power,Regular,True,Top País,390.0,4518,False
+73183,1910,2019,10,True,Menos de media página,False,True,False,False,Plataforma interior,Power,Regular,True,Top País,344.0,4455,False
+77583,1911,2019,11,True,Menos de media página,False,True,False,False,Plataforma inicial,Power,Promo,True,Top País,2746.0,4441,False
+82087,1912,2019,12,True,Menos de media página,False,True,False,False,Plataforma final,Power,Regular,True,Top País,413.0,4477,False
+86387,1913,2019,13,True,Menos de media página,False,True,False,False,Plataforma interior,Power,Regular,True,Top País,323.0,4425,False
+90784,1914,2019,14,True,Menos de media página,False,True,True,False,Plataforma interior,Power,Regular,True,Top País,1358.0,4716,False
+95528,1915,2019,15,True,Menos de media página,False,True,False,False,Plataforma interior,Power,Regular,True,Top País,450.0,4600,False
+100044,1916,2019,16,False,Menos de media página,False,False,False,False,No Aplica,No Aplica,Regular,True,Top País,649.0,4526,True
+104423,1917,2019,17,False,Media página,False,False,False,True,No Aplica,Power,Promo,True,Top País,2781.0,4460,True
+109150,1918,2019,18,True,Menos de media página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top País,538.0,4767,True
+113772,2001,2020,1,True,Media página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top País,244.0,4369,True
+117971,2002,2020,2,True,Media página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top País,368.0,4049,True
+122176,2003,2020,3,True,Media página,False,False,False,True,No Aplica,No Aplica,Regular,True,Top País,278.0,4193,True
+126256,2004,2020,4,False,Media página,False,False,False,True,No Aplica,Power,Promo,True,Top País,2769.0,4130,True
+130387,2005,2020,5,False,Media página,False,False,False,False,Plataforma inicial,Power,Regular,True,Top País,407.0,4111,True
+134904,2006,2020,6,True,Menos de media página,False,False,False,False,Plataforma inicial,Power,Regular,True,Top País,675.0,4924,True
+139733,2007,2020,7,True,Media página,False,False,False,False,No Aplica,Power,Promo,True,Top País,2063.0,4765,True
+144446,2008,2020,8,False,Media página,False,False,False,False,Plataforma inicial,Power,Regular,True,Top País,772.0,5009,True
+149004,2010,2020,10,False,Media página,False,False,False,False,No Aplica,Power,Promo,True,Top País,2838.0,4687,True
+153654,2011,2020,11,False,Media página,False,False,False,False,Plataforma inicial,Power,Regular,True,Top País,679.0,4645,True
+158531,2012,2020,12,True,Media página,False,False,False,False,Plataforma final,Power,Promo,True,Top País,711.0,4833,True
+163238,2013,2020,13,False,Página,False,False,False,False,No Aplica,Power,Promo,True,Top País,3119.0,4627,True
+167993,2014,2020,14,False,Media página,False,False,False,False,No Aplica,No Aplica,Regular,True,Top País,534.0,4891,True
+172798,2015,2020,15,True,Media página,False,False,False,False,Plataforma inicial,Power,Promo,True,Top País,636.0,4945,True
+177845,2016,2020,16,True,Media página,False,False,False,False,No Aplica,No Aplica,Regular,True,Top País,646.0,5170,True
+182943,2017,2020,17,True,Media página,False,False,False,False,No Aplica,No Aplica,Regular,True,Top País,1155.0,5285,True
+188251,2018,2020,18,False,Media página,False,False,False,False,No Aplica,Power,Promo,True,Top País,1802.0,5680,True
+193837,2101,2021,1,False,Página,False,False,False,False,Plataforma inicial,Power,Promo,False,Paquete,1990.0,4686,True
+198628,2102,2021,2,False,Media página,False,False,False,False,Plataforma interior,Power,Regular,True,Paquete,1056.0,5214,True
+203813,2103,2021,3,True,Media página,False,False,False,False,No Aplica,No Aplica,Regular,True,Paquete,617.0,5209,True
+209075,2104,2021,4,False,Media página,False,False,False,False,No Aplica,No Aplica,Regular,True,Paquete,893.0,5103,True
+214042,2105,2021,5,True,Página,False,False,False,False,Plataforma inicial,Power,Regular,True,Paquete,1160.0,5131,True
+218955,2106,2021,6,False,Media página,False,False,False,False,Plataforma inicial,Power,Regular,True,Paquete,1103.0,4407,True
+223372,2107,2021,7,False,Media página,False,False,False,False,No Aplica,Power,Promo,False,Paquete,1883.0,4176,True
+227574,2108,2021,8,False,Media página,False,False,False,False,Plataforma inicial,Power,Promo,False,Paquete,1106.0,4269,True
+231871,2109,2021,9,False,Media página,False,False,False,False,No Aplica,No Aplica,Regular,False,Paquete,469.0,4020,True
+235837,2110,2021,10,False,Media página,False,False,False,False,No Aplica,Power,Promo,False,Paquete,2303.0,4041,True
+239848,2111,2021,11,False,Media página,False,False,False,False,Plataforma inicial,Power,Regular,False,Paquete,488.0,3912,True
+243819,2112,2021,12,False,Página,False,False,False,False,Plataforma final,Power,Regular,False,Paquete,654.0,3916,True
+247679,2113,2021,13,False,Página,False,False,False,False,No Aplica,Power,Promo,False,Paquete,1685.0,3821,True
+251508,2114,2021,14,False,Media página,False,False,False,False,No Aplica,No Aplica,Regular,False,Paquete,803.0,4257,True
+255692,2115,2021,15,False,Página,False,False,False,False,No Aplica,No Aplica,Regular,False,Paquete,950.0,4171,True
+259971,2116,2021,16,False,Media página,False,False,False,False,Plataforma inicial,Power,Regular,False,Paquete,565.0,4243,True
+264210,2117,2021,17,False,Media página,False,False,False,False,Plataforma final,Power,Regular,False,Paquete,761.0,4709,True
+268949,2118,2021,18,False,Página,False,False,False,False,No Aplica,Power,Promo,False,Paquete,2078.0,4960,True
